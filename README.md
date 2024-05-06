@@ -23,3 +23,4 @@
 <p align="left">I dynamically generated the page content; in fact, the HTML file only contains meta tags for SEO and links to various files. <br>The CSS file has been structured to ensure a comprehensible display of the site even on smartphones, using media queries. <br>In the JavaScript file, I declared variables for each created element and added click events, allowing for addition, reduction, or reset.</p>
 
 ###
+ [CounterAPP](https://counter-app-carbone-alessio.netlify.app/).
